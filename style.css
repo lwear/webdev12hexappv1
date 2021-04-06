@@ -1,0 +1,33 @@
+body {
+  font-family:Helvetica, Arial, sans-serif;
+}
+h1 {
+  text-align:center;
+}
+
+#colorSample {
+    width:500px;
+    height:300px;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:red;
+    font-size:3em;
+    text-align:center;
+    padding-top:50px;
+   
+}
+
+.answer {
+    width:500px;
+    font-size: 2em;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    border:thin solid black;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top:30px;
+}
+ 
